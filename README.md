@@ -18,6 +18,9 @@ Usefull android libraries which I use
 *  #### [TextDrawable](https://github.com/amulyakhare/TextDrawable)   
        Provides images with letter/text like the Gmail app.
 
+*  #### [Spots progress dialog](https://github.com/d-max/spots-dialog)   
+       Android AlertDialog with moving spots progress indicator packed.
+
 
 
 
