@@ -6,6 +6,7 @@ Usefull android libraries which I use
 
 *  #### [colorpicker](https://github.com/QuadFlask/colorpicker)      
         Beautiful color picker .
+        <img src="https://github.com/QuadFlask/colorpicker/raw/master/screenshot/screenshot.png" >
 
 *  #### [SearchableSpinner](https://github.com/miteshpithadiya/SearchableSpinner)      
        Usefull and simple SearchableSpinner .
