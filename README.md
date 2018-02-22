@@ -20,6 +20,9 @@ Usefull android libraries which I use
 
 *  #### [Spots progress dialog](https://github.com/d-max/spots-dialog)   
        Android AlertDialog with moving spots progress indicator packed.
+       
+*  #### [PatternLockView](https://github.com/aritraroy/PatternLockView)   
+       An easy-to-use, customizable and Material Design ready Pattern Lock view for Android.
 
 
 
