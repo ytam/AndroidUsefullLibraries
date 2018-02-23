@@ -24,6 +24,9 @@ Usefull android libraries which I use
 *  #### [PatternLockView](https://github.com/aritraroy/PatternLockView)   
        An easy-to-use, customizable and Material Design ready Pattern Lock view for Android.
 
+*  #### [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)   
+       MPAndroidChart ⚡️ is a powerful & easy to use chart library for Android.
+
 
 
 
