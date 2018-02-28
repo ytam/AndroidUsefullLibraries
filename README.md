@@ -27,7 +27,11 @@ Usefull android libraries which I use
 *  #### [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)   
        MPAndroidChart ⚡️ is a powerful & easy to use chart library for Android.
 
+## Week 3
 
+*  #### [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)   
+       AnyChart Android Charts is an amazing data visualization library 
+       for easily creating interactive charts in Android apps.
 
 
 
