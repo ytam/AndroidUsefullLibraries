@@ -34,7 +34,7 @@ Usefull android libraries which I use
        for easily creating interactive charts in Android apps.
 
 *  #### [Tinder Cards](https://github.com/yuyakaido/CardStackView)   
-      Tinder like swipeable card view for android.
+       Tinder like swipeable card view for android.
 
 
 
