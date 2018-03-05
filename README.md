@@ -33,6 +33,8 @@ Usefull android libraries which I use
        AnyChart Android Charts is an amazing data visualization library 
        for easily creating interactive charts in Android apps.
 
+*  #### [Tinder Cards](https://github.com/yuyakaido/CardStackView)   
+      Tinder like swipeable card view for android.
 
 
 
