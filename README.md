@@ -75,9 +75,12 @@ Usefull android libraries which I use
 
 *  #### [BoomMenu](https://github.com/Nightonke/BoomMenu)     
 
-<img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-inside-button.gif" width="250"/>
-<img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/ham-button.gif" width="250"/>
-<img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-outside-button.gif" width="250">
+<p align="center">
+  <img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-inside-button.gif" width="200" />
+  <img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/ham-button.gif" width="200" /> 
+  <img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-outside-button.gif" width="200" />
+</p>
+
 
 
 
