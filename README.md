@@ -47,6 +47,10 @@ Usefull android libraries which I use
 
 <img src="https://github.com/ImangazalievM/CircleMenu/blob/master/art/preview.gif"  width="150" height="200" />
 
+*  #### [Alerter](https://github.com/Tapadoo/Alerter)      
+
+<img src="https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_coloured.gif" />
+
 
 
 
