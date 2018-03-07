@@ -81,6 +81,15 @@ Usefull android libraries which I use
   <img src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-outside-button.gif" width="200" />
 </p>
 
+## Week 4
+
+*  #### [CardStackView](https://github.com/loopeer/CardStackView)     
+
+<p align="center">
+  <img src="https://github.com/loopeer/CardStackView/blob/master/screenshot/screenshot1.gif" width="200" />
+  <img src="https://github.com/loopeer/CardStackView/blob/master/screenshot/screenshot2.gif" width="200" /> 
+  <img src="https://github.com/loopeer/CardStackView/blob/master/screenshot/screenshot3.gif" width="200" />
+</p>
 
 
 
