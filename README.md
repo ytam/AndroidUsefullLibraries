@@ -12,14 +12,15 @@ Usefull android libraries which I use
 *  #### [SearchableSpinner](https://github.com/miteshpithadiya/SearchableSpinner) 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png">
+  
+  <img width="200" src="https://github.com/miteshpithadiya/SearchableSpinner/blob/master/searchablespinnerlibrary/src/main/res/nobleltevzwLMY47XMeditab02192016201518.gif">
 </p>
 
 
 *  #### [Toasty](https://github.com/GrenderG/Toasty)     
          
 <p align="center">
-  <img width="200" src="https://github.com/miteshpithadiya/SearchableSpinner/blob/master/searchablespinnerlibrary/src/main/res/nobleltevzwLMY47XMeditab02192016201518.gif">
+  <img  src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png">
 </p>
 
 ## Week 2
