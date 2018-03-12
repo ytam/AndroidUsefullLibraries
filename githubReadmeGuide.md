@@ -28,6 +28,11 @@ Alternatively,
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
+# 1 büyüklükte <br />
+##  2 büyüklükte <br />
+###  3 büyüklükte<br />
+####  4 büyüklükte <br />
+
 ### This is a third-tier heading
 
 You can use one `#` all the way up to `######` six for different heading sizes.
@@ -73,3 +78,11 @@ But I have to admit, tasks lists are my favorite:
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
 And, of course emoji! :sparkles: :camel: :boom:
+
+# Çoklu resim
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/screen1.png" width="200" />
+  <img src="https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/demo.gif" width="200" /> 
+  <img src="https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/screen2.png" width="200" />
+</p>
