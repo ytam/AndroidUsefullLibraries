@@ -28,7 +28,7 @@ Usefull android libraries which I use
 
 ## Week 3
 
-[Tinder Cards](https://github.com/yuyakaido/CardStackView) | [CircleMenu Buttom](https://github.com/ImangazalievM/CircleMenu) 
+[Tinder Cards](https://github.com/yuyakaido/CardStackView) |  [CircleMenu Buttom](https://github.com/ImangazalievM/CircleMenu) 
 ------------------------------------------------------- | -------------------------------------------------------------------------
 <img width="200" src="https://github.com/yuyakaido/CardStackView/blob/master/images/overview-github.gif">| <img width="200" src="https://github.com/ImangazalievM/CircleMenu/blob/master/art/preview.gif">
 
@@ -38,18 +38,7 @@ Usefull android libraries which I use
        AnyChart Android Charts is an amazing data visualization library 
        for easily creating interactive charts in Android apps.
 
-*  #### [Tinder Cards](https://github.com/yuyakaido/CardStackView)        
 
-<p align="center">
-  <img width="200" src="https://github.com/yuyakaido/CardStackView/blob/master/images/overview-github.gif">
-</p>
-
-       
-*  #### [CircleMenu Buttom](https://github.com/ImangazalievM/CircleMenu)      
-
-<p align="center">
-  <img width="200" src="https://github.com/ImangazalievM/CircleMenu/blob/master/art/preview.gif">
-</p>
 
 *  #### [Alerter](https://github.com/Tapadoo/Alerter)      
 
