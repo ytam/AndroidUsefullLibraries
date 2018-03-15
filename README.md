@@ -116,6 +116,12 @@ Usefull android libraries which I use
   <img src="https://github.com/Team-Blox/TreeView/blob/master/TreeView.png"  />
 </p>
 
+*  #### [ShapeOfView](https://github.com/florent37/ShapeOfView)     
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/florent37/ShapeOfView/master/medias/sample_diagonal.gif" width="200"   />
+  <img src="https://raw.githubusercontent.com/florent37/ShapeOfView/master/medias/sample_arc.gif" width="200"   />
+</p>
 
 
 
