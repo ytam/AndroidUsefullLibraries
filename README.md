@@ -100,7 +100,13 @@ Usefull android libraries which I use
 </p>
 
 
+## Week 4
 
+*  #### [MaterialChipsInput](https://github.com/BRoy98/MaterialChipsInput)     
+
+<p align="center">
+  <img src="https://github.com/pchmn/MaterialChipsInput/blob/master/docs/demo2.gif" width="200"  />
+</p>
 
 
 
