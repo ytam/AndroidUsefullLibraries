@@ -116,6 +116,20 @@ Usefull android libraries which I use
 </p>
 
 
+## Week 6
+
+*  #### [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt)     
+
+<p align="center">
+  <img src="https://github.com/sjwall/MaterialTapTargetPrompt/blob/master/docs/assets/example_FAB.png" width="200" />
+  <img src="https://github.com/sjwall/MaterialTapTargetPrompt/blob/master/docs/assets/example_appbar.png" width="200" /> 
+  <img src="https://github.com/sjwall/MaterialTapTargetPrompt/blob/master/docs/assets/example_centre.png" width="200" />
+</p>
+
+
+
+
+
 
 
 
